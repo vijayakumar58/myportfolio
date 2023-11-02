@@ -13,16 +13,17 @@ const Media = () => {
       </h2>
       <div className="flex gap-4">
         <span className="bannerIcon">
+          <a></a>
         <MdEmail />
         </span>
         <span className="bannerIcon">
         <MdPhone />
         </span>
         <span className="bannerIcon">
-        <FaLinkedinIn />
+          <a href='https://www.linkedin.com/in/vijayakumar-r-253265251/' target='_blank'><FaLinkedinIn /></a>
         </span>
         <span className="bannerIcon">
-        <FaGithub />
+        <a href='https://github.com/vijayakumar58' target='_blank'><FaGithub /></a>
         </span>
       </div>
     </div>
