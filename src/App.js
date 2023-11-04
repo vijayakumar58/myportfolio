@@ -1,7 +1,7 @@
 import Banner from "./components/banner/Banner";
 import About from "./components/about/About";
 import Contact from "./components/contact/Contact";
-import Features from "./components/features/Features";
+import Skills from "./components/skills/Skills";
 import Footer from "./components/footer/Footer";
 import FooterBottom from "./components/footer/FooterBottom";
 import Navbar from "./components/navbar/Navbar";
@@ -17,7 +17,7 @@ function App() {
         <Navbar></Navbar>
         <Banner></Banner>
         <About></About>
-        <Features></Features>
+        <Skills></Skills>
         <Projects></Projects>
         <Resume></Resume>
         {/* <Testimonial></Testimonial> */}
