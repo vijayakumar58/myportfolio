@@ -67,9 +67,9 @@ function Navbar() {
               <div>
               <img src={logo} alt="logo" className='block mx-auto h-12 rounded-full sm:mx-0 sm:shrink-0'/>
                 <p className="text-sm text-gray-400 mt-2">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Earum soluta perspiciatis molestias enim cum repellat, magnam
-                  exercitationem distinctio aliquid nam.
+                  Hey! my name is Vijayakumar R, self driven, quick starter passionate programmer with curious mind focused and enthusiastic developer
+                  with a keen interest in software development and competitive programming. By comprehensive exposure to the underlying concepts and applying them vividly to various projects, my love for these domains came into being.
+                  I am a passionate individual who thrives to build and apply algorithms to solve real-world problems.
                 </p>
               </div>
               <ul className="flex flex-col gap-4">

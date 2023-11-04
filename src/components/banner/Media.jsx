@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaGithub, FaLinkedinIn, FaNodeJs, FaReact } from "react-icons/fa";
+import { FaFileAlt, FaGithub, FaLinkedinIn, FaNodeJs, FaReact } from "react-icons/fa";
 import { DiMongodb } from "react-icons/di";
 import { SiExpress } from "react-icons/si";
 import { MdEmail, MdPhone } from "react-icons/md";
@@ -29,6 +29,16 @@ const Media = () => {
     </div>
     <div>
       <h2 className="text-base uppercase font-titleFont mb-4">
+        GET RESUME
+      </h2>
+      <div className="flex gap-4">
+        <span className="bannerIcon">
+        <a href='https://drive.google.com/file/d/1Rhi9MVRnDVEnXB9gqwwNnOAxSaTcwV9h/view?usp=sharing' target='_blank'><FaFileAlt /></a>
+        </span>
+      </div>
+    </div>
+    <div>
+      <h2 className="text-base uppercase font-titleFont mb-4">
         BEST SKILL ON
       </h2>
       <div className="flex gap-4">
@@ -36,7 +46,7 @@ const Media = () => {
         <DiMongodb />
         </span>
         <span className="bannerIcon">
-          <SiExpress />
+        <SiExpress />
         </span>
         <span className="bannerIcon">
         <FaReact />

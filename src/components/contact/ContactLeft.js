@@ -14,7 +14,7 @@ const ContactLeft = () => {
     <div className="flex flex-col gap-4">
       <h3 className="text-3xl font-bold text-white">Vijayakumar R</h3>
       <p className="text-lg font-normal text-gray-400">
-        MERN Stack Developer
+        Full Stack Developer (MERN)
       </p>
       <p className="text-base text-gray-400 tracking-wide">
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis
@@ -37,10 +37,10 @@ const ContactLeft = () => {
         <MdPhone />
         </span>
         <span className="bannerIcon">
-        <FaLinkedinIn />
+        <a href='https://www.linkedin.com/in/vijayakumar-r-253265251/' target='_blank'><FaLinkedinIn /></a>
         </span>
         <span className="bannerIcon">
-        <FaGithub />
+        <a href='https://github.com/vijayakumar58' target='_blank'><FaGithub /></a>
         </span>
       </div>
     </div>

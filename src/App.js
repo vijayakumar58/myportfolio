@@ -1,4 +1,5 @@
 import Banner from "./components/banner/Banner";
+import About from "./components/about/About";
 import Contact from "./components/contact/Contact";
 import Features from "./components/features/Features";
 import Footer from "./components/footer/Footer";
@@ -15,10 +16,11 @@ function App() {
       <div className="max-w-screen-2xl mx-auto px-16">
         <Navbar></Navbar>
         <Banner></Banner>
+        <About></About>
         <Features></Features>
         <Projects></Projects>
         <Resume></Resume>
-        <Testimonial></Testimonial>
+        {/* <Testimonial></Testimonial> */}
         <Contact></Contact>
         <Footer></Footer>
         <FooterBottom></FooterBottom>
