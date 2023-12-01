@@ -27,14 +27,8 @@ const LeftBanner = () => {
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
         I am a continuous learner with a passion for exploring new technologies and techniques to improve my skills.
-          {/* As a MERN-Full stack developer with no prior work experience, I have a strong foundation in web development and a passion for creating dynamic, user-friendly web applications. I have proficiency in the MERN stack, which includes MongoDB, Express, React, and Node.js. 
-          In my education and personal projects, I have developed skills in front-end development, including HTML, CSS, JavaScript, React, and Redux. I am also proficient in back-end development, including Node.js, Express, and MongoDB.
-          I have experience in creating RESTful APIs, designing and implementing databases, and deploying applications to cloud platforms like Heroku and AWS. I have also worked with Git and GitHub for version control and collaboration.
-          I am a fast learner and eager to expand my skill set, always staying up-to-date with the latest web development trends and technologies. I am a team player, with excellent communication skills and a positive attitude.
-          Overall, I am excited to bring my skills and enthusiasm to a MERN-Full stack developer role and contribute to the success of the organization. */}
         </p>
       </div>
-      {/* Media */}
       <Media />
     </div>
   )

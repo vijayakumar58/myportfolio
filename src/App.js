@@ -7,7 +7,6 @@ import FooterBottom from "./components/footer/FooterBottom";
 import Navbar from "./components/navbar/Navbar";
 import Projects from "./components/projects/Projects";
 import Resume from "./components/resume/Resume";
-import Testimonial from "./components/testimonial/Testimonial";
 
 
 function App() {
@@ -20,7 +19,6 @@ function App() {
         <Skills></Skills>
         <Projects></Projects>
         <Resume></Resume>
-        {/* <Testimonial></Testimonial> */}
         <Contact></Contact>
         <Footer></Footer>
         <FooterBottom></FooterBottom>

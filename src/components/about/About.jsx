@@ -19,7 +19,7 @@ function About (){
       </div>    
       </section>
         <section
-      className="w-full  pb-20 flex items-center border-b-[1px] font-titleFont border-b-black"
+      className="w-full  pb-20 flex lgl:flex-row items-center border-b-[1px] font-titleFont border-b-black"
     > 
         <RightAbout></RightAbout>
         <LeftAbout></LeftAbout>
